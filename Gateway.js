@@ -1,5 +1,5 @@
-const { cerr, cinfo } = require("./../GIT/LogManagement/LogManagement");
-const express = require("./../GIT/Lib/express");
+const { cerr, cinfo } = require("./../LogManagement/LogManagement");
+const express = require("./../Lib/express");
 
 class GAMXGateway {
     constructor() {
